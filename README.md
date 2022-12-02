@@ -5,6 +5,13 @@
 </picture>
 
 
+## Welcome!
+
+Browse my repos: works in C++, javascript and react.
+
+Happy Coding!
+Kokokodi
+
 <!--
 **kokokodi/kokokodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
