@@ -1,7 +1,5 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/google/material-design-icons/blob/master/png/action/code/materialiconstwotone/48dp/2x/twotone_code_black_48dp.png">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/google/material-design-icons/blob/master/png/action/code/materialiconstwotone/48dp/2x/twotone_code_black_48dp.png">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/google/material-design-icons/blob/master/png/action/code/materialiconstwotone/48dp/2x/twotone_code_black_48dp.png" style=" width:60px ; height:60px " >
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://github.com/google/material-design-icons/blob/master/png/action/code/materialiconstwotone/48dp/2x/twotone_code_black_48dp.png">
 </picture>
 
 
