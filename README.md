@@ -3,6 +3,9 @@
   <source media="(prefers-color-scheme: light)" srcset="https://icons8.com/icon/3emxGc2e5sJQ/goat">
   <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://icons8.com/icon/3emxGc2e5sJQ/goat">
 </picture>
+<picture>
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://icons8.com/icon/3emxGc2e5sJQ/goat">
+</picture>
 
 
 ## Welcome!
